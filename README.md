@@ -1,5 +1,4 @@
 # CV onepage avec materialize
-## WIP
-Le cv est en cours de réalisation mais je désirais le publier.
 
-Les prochaines évolutions vont suivre.
+Ce CV est responsive, vous pouvez le consulter sur tous types de supports.
+J'ai utilisé et adapté à mes besoins le framework Materialize.
